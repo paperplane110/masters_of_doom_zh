@@ -2,8 +2,6 @@ export default defineAppConfig({
   // Configure Content Wind here
   cover: '/cover.jpg',
   socials: {
-    twitter: 'Atinux',
-    github: 'Atinux/content-wind',
-    mastodon: '@atinux@webtoo.ls'
+    github: 'paperplane110/masters_of_doom_zh'
   }
 })
