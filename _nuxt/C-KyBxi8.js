@@ -1,1 +1,0 @@
-import{l as o,b as t,c as r,Y as s}from"./hEH_mQ-M.js";const n={},c={class:"flex justify-center gap-8 my-16"};function a(e,l){return t(),r("div",c,[s(e.$slots,"one"),s(e.$slots,"two"),s(e.$slots,"three")])}const i=o(n,[["render",a]]);export{i as default};
