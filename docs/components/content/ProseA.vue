@@ -6,7 +6,7 @@
       <b>
           <slot />
       </b>
-      <Icon class="mr-1 mb-1" name="ph:link-bold"/>
+      <Icon v-if="target === '_blank'" class="mr-1 mb-1" name="ph:arrow-square-out-bold"/>
     </NuxtLink>
   </template>
   
@@ -20,7 +20,7 @@
     },
     target: {
       type: String as PropType<'_blank' | '_parent' | '_self' | '_top' | (string & object) | null | undefined>,
-      default: undefined,
+      default: '_blank',
       required: false
     }
   })
