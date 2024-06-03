@@ -9,6 +9,7 @@
   },
   "devDependencies": {
     "content-wind": "latest",
-    "nuxt": "latest"
+    "nuxt": "latest",
+    "nuxt-gtag": "^2.0.6"
   }
 }
