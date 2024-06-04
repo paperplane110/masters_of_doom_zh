@@ -8,6 +8,7 @@
     "preview": "nuxi preview"
   },
   "devDependencies": {
+    "@nuxtjs/google-fonts": "^3.2.0",
     "content-wind": "latest",
     "nuxt": "latest",
     "nuxt-gtag": "^2.0.6"
