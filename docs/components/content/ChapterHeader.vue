@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1 class="font-pixel antialiased"><slot/></h1>
+        <h1><slot/></h1>
         <ProseBlockquote>{{ page.description }}</ProseBlockquote>
         <br/>
     </div>
