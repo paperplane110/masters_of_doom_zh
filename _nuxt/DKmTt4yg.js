@@ -1,0 +1,1 @@
+import{l as r,b as s,c as t,Y as o}from"./l9Yk0NTv.js";const a={},c={class:"px-4 border dark:border-slate-600 rounded-lg bg-slate-100 dark:bg-slate-700 text-sm"};function n(e,d){return s(),t("div",c,[o(e.$slots,"default")])}const _=r(a,[["render",n]]);export{_ as default};
