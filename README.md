@@ -1,14 +1,23 @@
+<div align=center>
+
+![doom](docs/public/Doom_logo.png)
+
 # Doom 启示录｜Masters of Doom
 
 [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
+作者：David Kushner｜译者：tyyuan
+
+</div>
+
+
+
 简介：一个关于创造了《Doom》的游戏公司的传记：讲述了两个年轻人如何开创商业帝国，并引领流行文化的故事。
 
-作者：David Kushner｜译者：tyyuan
 
 线上阅读：https://paperplane110-masters-of-doom-zh.nuxt.space/
 
-> 本翻译仅用于个人英语学习，如有错误，请批评指正🙏
+> 本翻译仅用于个人英语学习，严禁商用，如有错误，请批评指正🙏
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
