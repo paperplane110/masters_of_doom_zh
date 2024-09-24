@@ -1,1 +1,0 @@
-import{l as t,c as o,e as r,Z as s}from"./DltuLQE0.js";const n={},c={class:"flex justify-center gap-8 my-16 text-2xl"};function a(e,l){return o(),r("div",c,[s(e.$slots,"one"),s(e.$slots,"two"),s(e.$slots,"three")])}const i=t(n,[["render",a]]);export{i as default};
