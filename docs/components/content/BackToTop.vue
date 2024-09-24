@@ -18,15 +18,33 @@
 
 <script setup>
 const isVisible = ref(false)
+const isLeaveTop = ref(false)
+const prevY = ref(0)
+const scrollDirection = ref("down")
 
 const handleScroll = () => {
     const windowHeight = window.innerHeight
     const scrollPos = window.scrollY || 
         document.documentElement.scrollTop
-    isVisible.value = scrollPos > (windowHeight / 2)
+
+    if (scrollPos > prevY.value) {
+        scrollDirection.value = "down"
+    } else {
+        scrollDirection.value = "up"
+    }
+    prevY.value = scrollPos
+
+    isLeaveTop.value = scrollPos > (windowHeight / 2)
+    if (isLeaveTop.value && (scrollDirection.value === "up")) {
+        isVisible.value = true
+    } else {
+        isVisible.value = false
+    }
 }
 
-const scrollToTop = () => {
+const scrollToTop = (e) => {
+    e.preventDefault()
+    e.stopPropagation()
     window.scrollTo({
         top: 0,
         behavior: "smooth"

@@ -5,9 +5,13 @@ export default defineNuxtConfig({
     id: 'G-Y1VX13XEW7'
   },
   googleFonts: {
+    download: true,
     families: {
       'Ma Shan Zheng': true,
-      'DotGothic16': true
+      'DotGothic16': true,
+      'Noto Serif SC': [400, 700],
+      'Courier Prime': [400, 700],
+      'Zen Kurenaido': [400]
     }
   }
 })

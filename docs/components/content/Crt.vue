@@ -1,5 +1,5 @@
 <template>
-    <div class="relative border px-2 bg-clip-border bg-black text-green-500 crt">
+    <div class="relative bg-clip-border bg-black text-green-500 crt">
         <slot />
     </div>
 </template>
