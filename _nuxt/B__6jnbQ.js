@@ -1,1 +1,0 @@
-import{k as t,c as r,e as c,X as s}from"./CbQhiLVK.js";const o={},a={class:"relative bg-clip-border bg-black text-green-500 crt"};function n(e,d){return r(),c("div",a,[s(e.$slots,"default",{},void 0,!0)])}const _=t(o,[["render",n],["__scopeId","data-v-8840b722"]]);export{_ as default};
