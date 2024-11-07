@@ -1,1 +1,0 @@
-import{m as n,c as s,e as a,f as l,X as c,n as r,L as o,h as i}from"./CK6zVXu3.js";const u=()=>n("violang",()=>!0),_={class:"inline"},d={key:0,class:"font-bold"},g={__name:"Violang",setup(m){const e=u();return(t,p)=>(s(),a("div",_,[l("span",{class:r([o(e)?"":"bg-gray-700 select-none"])},[c(t.$slots,"default")],2),o(e)?i("",!0):(s(),a("sup",d,"语言暴力"))]))}};export{g as default};
