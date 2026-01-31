@@ -1,0 +1,1 @@
+import{k as t,c as r,e as c,$ as s}from"./DwtR8Q3i.js";const a={},n={class:"relative bg-clip-border bg-black text-green-500 crt"};function o(e,_){return r(),c("div",n,[s(e.$slots,"default",{},void 0,!0)])}const l=Object.assign(t(a,[["render",o],["__scopeId","data-v-8840b722"]]),{__name:"Crt"});export{l as default};

@@ -1,0 +1,1 @@
+import{k as r,c as s,e as t,$ as a}from"./DwtR8Q3i.js";const o={},c={class:"px-4 border dark:border-slate-600 rounded-lg bg-slate-100 dark:bg-slate-700 text-sm"};function n(e,d){return s(),t("div",c,[a(e.$slots,"default")])}const _=Object.assign(r(o,[["render",n]]),{__name:"Term"});export{_ as default};

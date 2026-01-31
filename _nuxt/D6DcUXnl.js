@@ -1,0 +1,1 @@
+import{k as t,c as o,e as n,$ as s}from"./DwtR8Q3i.js";const r={},c={class:"flex justify-center gap-8 my-16 text-2xl"};function a(e,l){return o(),n("div",c,[s(e.$slots,"one"),s(e.$slots,"two"),s(e.$slots,"three")])}const _=Object.assign(t(r,[["render",a]]),{__name:"SectionBreak"});export{_ as default};

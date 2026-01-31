@@ -1,0 +1,1 @@
+import{d as t,$ as n}from"./DwtR8Q3i.js";const a=t({__name:"ProseCode",props:{code:{type:String,default:""},language:{type:String,default:null},filename:{type:String,default:null},highlights:{type:Array,default:()=>[]},meta:{type:String,default:null}},setup(r){return(e,l)=>n(e.$slots,"default")}}),s=Object.assign(a,{__name:"ProseCode"});export{s as default};

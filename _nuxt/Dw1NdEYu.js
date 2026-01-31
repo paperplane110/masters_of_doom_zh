@@ -1,0 +1,1 @@
+import{k as s,c as t,e as r,$ as a}from"./DwtR8Q3i.js";const o={},n={class:"px-4 border dark:border-slate-600 rounded-lg bg-slate-100 dark:bg-slate-700 text-sm"};function c(e,d){return t(),r("div",n,[a(e.$slots,"default")])}const _=Object.assign(s(o,[["render",c]]),{__name:"TransNote"});export{_ as default};
