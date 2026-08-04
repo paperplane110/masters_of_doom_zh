@@ -8,9 +8,10 @@
     "preview": "nuxi preview"
   },
   "devDependencies": {
+    "@nuxt/icon": "1.15.0",
     "@nuxtjs/google-fonts": "^3.2.0",
     "content-wind": "latest",
-    "nuxt": "latest",
+    "nuxt": "3",
     "nuxt-gtag": "^2.0.6"
   }
 }

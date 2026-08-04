@@ -1,6 +1,6 @@
 export default defineNuxtConfig({
   extends: 'content-wind',
-  modules: ["nuxt-gtag", "@nuxtjs/google-fonts"],
+  modules: ["nuxt-gtag", "@nuxtjs/google-fonts", '@nuxt/icon'],
   gtag: {
     id: 'G-Y1VX13XEW7'
   },
