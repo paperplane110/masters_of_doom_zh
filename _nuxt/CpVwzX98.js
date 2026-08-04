@@ -1,0 +1,1 @@
+function e(e){return Array.isArray(e)?e:[e]}var t=/bot\b|chrome-lighthouse|facebookexternalhit|google\b/i;function n(e){return t.test(e)}import.meta.url.replace(/\/app\/.*$/,`/`);export{e as n,n as t};

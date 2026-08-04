@@ -1,0 +1,1 @@
+import{dt as e}from"./D95zZN3S.js";import{g as t}from"./BS2vxAIW.js";import{t as n}from"./Brx0I16N.js";var r=(e,t)=>[],i=r,a=e=>n.sensitive?t({},...r(``,e).map(e=>e.data).reverse()):t({},...i(``,typeof e==`string`?e.toLowerCase():e).map(e=>e.data).reverse()),o=a;function s(t,n){return e(n)??t?.meta.layout??o(t?.path??`/`).appLayout??`default`}export{a as n,s as t};

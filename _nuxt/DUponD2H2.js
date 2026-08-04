@@ -1,0 +1,1 @@
+import{L as e,V as t,m as n}from"./D95zZN3S.js";import{t as r}from"./BDNMzG2s.js";var i={},a={class:`flex justify-center gap-8 my-16 text-2xl`};function o(r,i){return e(),n(`div`,a,[t(r.$slots,`one`),t(r.$slots,`two`),t(r.$slots,`three`)])}var s=Object.assign(r(i,[[`render`,o]]),{__name:`SectionBreak`});export{s as default};
