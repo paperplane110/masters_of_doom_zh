@@ -1,1 +1,0 @@
-import{L as e,V as t,m as n}from"./D95zZN3S.js";import{t as r}from"./BDNMzG2s.js";var i={},a={class:`relative bg-clip-border bg-black text-green-500 crt`};function o(r,i){return e(),n(`div`,a,[t(r.$slots,`default`,{},void 0,!0)])}var s=Object.assign(r(i,[[`render`,o],[`__scopeId`,`data-v-8840b722`]]),{__name:`Crt`});export{s as default};

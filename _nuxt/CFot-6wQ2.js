@@ -1,1 +1,0 @@
-import{L as e,V as t,m as n}from"./D95zZN3S.js";import{t as r}from"./BDNMzG2s.js";var i={},a={class:`px-4 border dark:border-slate-600 rounded-lg bg-slate-100 dark:bg-slate-700 text-sm`};function o(r,i){return e(),n(`div`,a,[t(r.$slots,`default`)])}var s=Object.assign(r(i,[[`render`,o]]),{__name:`TransNote`});export{s as default};

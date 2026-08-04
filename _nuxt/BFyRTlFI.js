@@ -1,0 +1,1 @@
+import{m as n}from"./rB5U4JdB.js";const r=()=>{const e=n("detail-panel:isOpen",()=>!1),t=n("detail-panel:key",()=>null),a=l=>{t.value=l,e.value=!0},s=()=>{e.value=!1};return{isOpen:e,key:t,open:a,close:s,toggle:l=>{if(e.value&&t.value===l){s();return}a(l)}}};export{r as u};

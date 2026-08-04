@@ -1,1 +1,0 @@
-import{L as e,m as t}from"./D95zZN3S.js";import{t as n}from"./BDNMzG2s.js";import{t as r}from"./JbDSGd1I.js";var i={},a={class:`max-w-full overflow-x-auto text-gray-700 dark:text-gray-300`};function o(n,i){return e(),t(`pre`,a,[r(n.$slots,`default`,{unwrap:`p`})])}var s=Object.assign(n(i,[[`render`,o]]),{__name:`MarkdownBlock`});export{s as default};

@@ -1,0 +1,1 @@
+import{k as r,c as s,e as t,a1 as a}from"./rB5U4JdB.js";const o={},c={class:"px-4 border dark:border-slate-600 rounded-lg bg-slate-100 dark:bg-slate-700 text-sm"};function n(e,d){return s(),t("div",c,[a(e.$slots,"default")])}const _=r(o,[["render",n]]);export{_ as default};

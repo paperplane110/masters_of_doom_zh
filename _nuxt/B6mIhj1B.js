@@ -1,1 +1,0 @@
-import{t as e}from"./BYXiyE-y.js";var t=()=>{let t=e(`detail-panel:isOpen`,()=>!1),n=e(`detail-panel:key`,()=>null),r=e=>{n.value=e,t.value=!0},i=()=>{t.value=!1};return{isOpen:t,key:n,open:r,close:i,toggle:e=>{if(t.value&&n.value===e){i();return}r(e)}}};export{t};
